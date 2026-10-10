@@ -1,0 +1,6 @@
+{
+  "name": "Aether Weather Intelligence",
+  "description": "Real-time weather intelligence, 7-day forecasts, interactive temperature trend charts, and smart automated activity recommendations powered by Open-Meteo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
